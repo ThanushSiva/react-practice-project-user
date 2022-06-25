@@ -7,3 +7,6 @@ Validation and Resetting\
 User List Component\
 Managing list via state\
 Error Modal and Error State
+
+# Fragments, Portals & Refs
+NOTE : not covered in code
